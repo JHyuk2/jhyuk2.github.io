@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: the Legend LeeJong_d
+title: the LeeJong_d
 email: whdgurdl77@gmail.com
 description: Welcome to my playground
 remote_theme: mmistakes/jekyll-theme-basically-basic
 baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: https://jhyuk.github.io
 author:
-  name: Hyuk2Coding
+  name: JHLee
   twitter:
   picture:
 twitter_username:
-github_username: jhyuk
+github_username: jhyuk2
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
