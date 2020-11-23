@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: the LeeJong_d
+lang: ko-KR
+title: 이러면 한국어도 되나?
 email: whdgurdl77@gmail.com
 description: Welcome to my playground
 remote_theme: mmistakes/jekyll-theme-basically-basic
