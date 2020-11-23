@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ko-KR
-title: 이러면 한국어도 되나?
+title: Hyuk'story
 email: whdgurdl77@gmail.com
 description: Welcome to my playground
 remote_theme: mmistakes/jekyll-theme-basically-basic
